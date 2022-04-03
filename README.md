@@ -14,7 +14,7 @@ Sumber Database : https://drive.google.com/drive/folders/1fTHrwh_gcLsOFKXHnUzUGE
 
 ### SQL
 1. Apakah tabel customers, orders, ordersdetail, products dan categories dapat digabungkan menjadi 1 tabel? Jika memungkinkan, tampilkan tabel yang memuat informasi transaksi yang melibatkan kelima tabel tersebut.
-2. Berapa banyak jenis line produk yang tersedia? Berapa banyak jumlah produk untuk setiap jenis produknya? Serta berapa total quantity jenis line produk nya?
+2. Berapa banyak jenis line produk yang tersedia? Berapa banyak jumlah line produk untuk setiap jenis produknya? Serta berapa total quantity jenis line produk nya?
 
 ### Data Manipulation
 1. Apakah terdapat anomaly berupa missing values, data duplicate, kesalahan data formatting, dan/atau inconsistency typing? Jika ada tunjukan serta lakukan penanganan pada anomaly tersebut.
@@ -28,7 +28,7 @@ Sumber Database : https://drive.google.com/drive/folders/1fTHrwh_gcLsOFKXHnUzUGE
 1. Apakah terdapat pelanggan yang loyal? Jika ada, bagaimana treatment dan strategi
 yang bisa dimanfaatkan dengan melihat adanya pelanggan setia tersebut?
 2. Negara mana saja yang menjadi tujuan pemesan produk terbanyak? Tampilkan jabarkan dan buatlah analisisnya.
-3. Bagaimana persentase status Lever Reorder dengan Produksi Barang? Apakah strategi yang diambil oleh perusahaan sudah menempuh jalan yang benar?
+3. Bagaimana persentase status Level Reorder dengan Produksi Barang? Apakah strategi yang diambil oleh perusahaan sudah menempuh jalan yang benar?
 4. Jenis product apa yang paling laku dan paling banyak terjual? Berikanlah analisisnya jika ada
 5. Pada tahun berapa keuntungan terbesar perusahaan didapatkan?
 6. Tampilkanlah Visualisasi Data Outliers dari variabel UnitsInStock.
