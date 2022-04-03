@@ -10,11 +10,10 @@ Sumber Database : https://drive.google.com/drive/folders/1fTHrwh_gcLsOFKXHnUzUGE
 
 ### General Question
 1. Bagaimana konteks bisnis berdasarkan dengan data yang telah diberikan?
-2. Ada berapa banyak tabel yang disediakan oleh database yang tersedia? Jabarkan
-setiap tabelnya!
+2. Ada berapa banyak tabel yang disediakan oleh database? Jabarkan setiap tabelnya!
 
 ### SQL
-1. Apakah tabel customers, orders ordersdetail, products dan categories dapat digabungkan menjadi 1 tabel? Jika memungkinkan, tampilkan tabel yang memuat informasi transaksi yang melibatkan kelima tabel tersebut.
+1. Apakah tabel customers, orders, ordersdetail, products dan categories dapat digabungkan menjadi 1 tabel? Jika memungkinkan, tampilkan tabel yang memuat informasi transaksi yang melibatkan kelima tabel tersebut.
 2. Berapa banyak jenis line produk yang tersedia? Berapa banyak jumlah produk untuk setiap jenis produknya? Serta berapa total quantity jenis line produk nya?
 
 ### Data Manipulation
